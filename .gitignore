@@ -58,3 +58,4 @@ temp/
 
 # Misc
 *.swp
+config.env
